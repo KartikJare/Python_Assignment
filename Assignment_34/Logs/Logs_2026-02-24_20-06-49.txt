@@ -1,0 +1,5 @@
+Backup start at :  2026-02-24_20-06-49
+zip file gets create : Backup_2026-02-24_20-06-49.zip 
+Files copied : 0 
+Error : None
+Backup completed
