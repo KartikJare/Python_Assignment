@@ -1,10 +1,10 @@
-# 🐍 Python Assignment – Concepts, Machine Learning & Automation
+# 🐍 Python Assignments – Concepts, Machine Learning & Automation
 
 ## 📌 Description
 
-**Python_Assignment** is a collection of Python programs covering **core programming concepts, Machine Learning implementations, and automation scripts**.
+This repository contains a collection of Python assignments organized from **Assignment_9 to Assignment_50**, covering a wide range of programming concepts.
 
-This repository is designed to provide a **complete learning path** from basic Python to practical applications like ML and automation.
+It follows a **structured and progressive learning approach**, starting from basic Python concepts and extending to **Machine Learning and automation scripts**.
 
 ---
 
@@ -12,9 +12,9 @@ This repository is designed to provide a **complete learning path** from basic P
 
 * Strengthen Python fundamentals
 * Improve logical thinking and problem-solving
-* Learn Machine Learning concepts
-* Build automation scripts for real-world tasks
-* Prepare for advanced technologies and projects
+* Practice concept-based programming
+* Explore Machine Learning and automation
+* Build real-world programming skills
 
 ---
 
@@ -27,8 +27,6 @@ This repository is designed to provide a **complete learning path** from basic P
 * Loops and Conditions
 * Functions and Recursion
 
----
-
 ### 🔹 Data Structures
 
 * Lists
@@ -36,43 +34,29 @@ This repository is designed to provide a **complete learning path** from basic P
 * Dictionaries
 * Sets
 
----
+### 🔹 Problem Solving
+
+* Number problems
+* Pattern printing
+* Mathematical logic
 
 ### 🔹 Machine Learning
 
+* Basic model implementation
 * Data preprocessing
-* Model training (basic ML algorithms)
-* Model evaluation (accuracy, confusion matrix)
-* Use of libraries like:
+* Model evaluation
 
-  * NumPy
-  * Pandas
-  * Scikit-learn
+### 🔹 Automation
 
----
-
-### 🔹 Automation Scripts
-
-* File handling automation
-* Data processing scripts
-* Basic task automation
+* File handling scripts
+* Data processing utilities
+* Basic automation tasks
 
 ---
 
-## 🛠️ Technologies Used
+## 📂 Project Structure
 
-* Language: **Python**
-* Libraries:
-
-  * NumPy
-  * Pandas
-  * Matplotlib
-  * Scikit-learn
-* Platform: Windows / Linux
-
----
-
-📂 Project Structure
+```bash
 Python_Assignment/
 │── Assignment_9/
 │── Assignment_10/
@@ -80,55 +64,37 @@ Python_Assignment/
 │── ...
 │── Assignment_50/
 │── README.md
+```
 
 Each folder contains:
 
-Multiple Python programs
-Concept-based implementations
-Practice problems
-
----
-
-## ⚙️ How It Works
-
-### 🔹 Machine Learning Flow
-
-1. Load dataset
-2. Preprocess data
-3. Train model
-4. Evaluate performance
-
----
-
-### 🔹 Automation Flow
-
-* Read data from file
-* Process or modify it
-* Generate output automatically
+* Multiple Python programs
+* Concept-based implementations
+* Practice problems
 
 ---
 
 ## 🧑‍💻 How to Run
 
-### ▶️ Install Dependencies
+### ▶️ Run any Python file
 
-```bash id="6lmdx1"
-pip install numpy pandas matplotlib scikit-learn
+```bash
+python3 filename.py
 ```
 
-### ▶️ Run Program
+or
 
-```bash id="gbkbhm"
-python3 filename.py
+```bash
+python filename.py
 ```
 
 ---
 
 ## 📊 Sample Output
 
-```bash id="yq8g2o"
-Accuracy: 87%
-Prediction: Pass
+```
+Enter number: 5
+Factorial is: 120
 ```
 
 ---
@@ -136,9 +102,10 @@ Prediction: Pass
 ## 💡 Learning Outcomes
 
 * Strong Python fundamentals
-* Practical Machine Learning experience
-* Understanding of automation concepts
-* Ability to build real-world Python applications
+* Improved problem-solving skills
+* Hands-on Machine Learning exposure
+* Understanding of automation scripts
+* Ability to build practical Python applications
 
 ---
 
@@ -152,11 +119,11 @@ Prediction: Pass
 
 This repository demonstrates:
 
+* Structured and consistent learning
+* Progression from basics to advanced topics
 * Multi-domain Python skills (Core + ML + Automation)
-* Real-world problem-solving ability
-* Hands-on learning approach
 
-👉 Highly valuable for:
+👉 Valuable for:
 
 * Python Developer roles
 * Data Science / ML internships
